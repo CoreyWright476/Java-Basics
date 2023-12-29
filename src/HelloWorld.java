@@ -1,3 +1,4 @@
+import DataStructures.Arrays;
 import conditionalStatements.*;
 import variables.MathVariables;
 import variables.StringVariables;
@@ -15,7 +16,7 @@ public class HelloWorld {
         SwitchStatements switchStatements = new SwitchStatements();
         DoWhile doWhile = new DoWhile();
         ForLoops forLoops = new ForLoops();
-
+        Arrays arrays = new Arrays();
 //// 'System.out.println()' will print whatever is passed in to the users console.
 //// in the cases below we are calling the 'println' method and passing in the methods from the classes that we want to print,
 //// followed by the arguments we wish to pass in
@@ -39,7 +40,9 @@ public class HelloWorld {
 //        System.out.println(doWhile.whileLoop(5));
 //        System.out.println(DoWhile.doWhileLoop(4, "Hello"));
 
-        System.out.println(forLoops.forLoop(0));
+//        System.out.println(forLoops.forLoop(0));
+
+        System.out.println(Arrays.Alphabet());
 
     }
 }
