@@ -38,11 +38,10 @@ public class HelloWorld {
 
 //        System.out.println(switchStatements.switchStatement(3));
 //        System.out.println(doWhile.whileLoop(5));
-//        System.out.println(DoWhile.doWhileLoop(4, "Hello"));
+//        System.out.println(doWhile.doWhileLoop(4, "Hello"));
 
 //        System.out.println(forLoops.forLoop(0));
 
-        System.out.println(Arrays.Alphabet());
-
+//        System.out.println(Arrays.Alphabet());
     }
 }
