@@ -43,5 +43,7 @@ public class HelloWorld {
 //        System.out.println(forLoops.forLoop(0));
 
 //        System.out.println(Arrays.Alphabet());
+//        System.out.println(arrays.CarCount(new Boolean[]{true, false, true, true, true}));
+//        System.out.println(arrays.SheepCount(new Boolean[]{true, false, true, true, true, false, false, false, true, true, true}));
     }
 }
